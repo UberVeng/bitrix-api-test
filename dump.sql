@@ -18,10 +18,10 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- База данных: `sitemanager`
+-- База данных: `sitemanager1`
 --
-CREATE DATABASE IF NOT EXISTS `sitemanager` DEFAULT CHARACTER SET utf8mb3 COLLATE utf8mb3_unicode_ci;
-USE `sitemanager`;
+CREATE DATABASE IF NOT EXISTS `sitemanager1` DEFAULT CHARACTER SET utf8mb3 COLLATE utf8mb3_unicode_ci;
+USE `sitemanager1`;
 
 -- --------------------------------------------------------
 
